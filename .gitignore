@@ -5,3 +5,4 @@ __pycache__/
 .env
 .tmp/
 data/
+comparing_document_analysis_tools/data/
